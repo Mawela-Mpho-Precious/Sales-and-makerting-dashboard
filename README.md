@@ -35,7 +35,7 @@ An advanced and interactive Marketing Analytics Dashboard built using **Streamli
    git clone https://github.com/your-username/marketing-analytics-dashboard.git
    cd marketing-analytics-dashboard
    Install dependencies: pip install -r requirements.txt
-   streamlit run dashboard.py
+   streamlit run sales_and_marketing.py
 
 
 
